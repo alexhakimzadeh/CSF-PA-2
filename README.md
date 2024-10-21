@@ -1,4 +1,4 @@
-# CSF-PA-2
+# CSF-PA-2 - IN PROGRESS
 Programming Assignment 2 for Computing Systems Fundamentals class.
 Programming Assignment 1 for Computing Systems Fundamentals class. How to run program:
 
