@@ -1,5 +1,5 @@
 # CSF-PA-2
-Programming Assignment 1 for Computing Systems Fundamentals class.
+Programming Assignment 2 for Computing Systems Fundamentals class.
 How to run program:
 
 1. Open terminal
