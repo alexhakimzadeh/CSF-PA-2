@@ -10,4 +10,5 @@ How to run program:
 
 4. Navigate to the files: cd path/to/your/python/files
 
-5. Run the python programs: (Be sure python is installed) pyhton3 Problem1.py python3 Problem2.py Depending on your system, the command may be 'python' or 'python3'
+5. Run the python programs: (Be sure python is installed) pyhton3 HakimzadehAlexProgAssign2.py
+   Depending on your system, the command may be 'python' or 'python3'
