@@ -1,4 +1,3 @@
-#####################################--80 CHARACTERS--##########################
 '''This python code was completed in accordance with my CS 3360 course at Texas 
     State University taught by Professor Dr. Kechang Yang. Please see my report 
     on this coding assignment to learn more about my approach and steps I took 
@@ -47,11 +46,11 @@ def simulate_fcfs(arrival_rate, avg_service_time, num_processes=10000):
     cpu_busy = False
 
     # Performance metrics
-    total_turnaround_time = 0.0
-    total_waiting_time = 0.0
-    total_processes_in_queue = 0.0
-    total_service_time = 0.0
-    cpu_utilization_time = 0.0
+    total_turnaround_time = clock
+    total_waiting_time = clock
+    total_processes_in_queue = clock
+    total_service_time = clock
+    cpu_utilization_time = clock
 
     # Schedule the first arrival
     first_arrival_time = exponential_random(arrival_rate)
@@ -120,8 +119,8 @@ def simulate_fcfs(arrival_rate, avg_service_time, num_processes=10000):
 def run_simulations():
     avg_service_time = 0.04  # Fixed avg service time
     results = []
-
     # Print table header for readability
+    print("-" * 110)
     print(f"{'λ':<5} {'Avg Turnaround Time (s)':<25} {'Throughput (processes/s)':<30} {'CPU Utilization (%)':<25} {'Avg Ready Queue Size':<20}")
     print("-" * 110)
 
