@@ -1,13 +1,13 @@
-# CSF-PA-2 - IN PROGRESS
-Programming Assignment 2 for Computing Systems Fundamentals class.
-Programming Assignment 1 for Computing Systems Fundamentals class. How to run program:
+# CSF-PA-2
+Programming Assignment 1 for Computing Systems Fundamentals class.
+How to run program:
 
-Open terminal
+1. Open terminal
 
-Use command: ssh [yourusername]@zeus.cs.txstate.edu
+2. Use command: ssh [yourusername]@zeus.cs.txstate.edu
 
-Enter yopur password and press enter
+3. Enter yopur password and press enter
 
-Navigate to the files: cd path/to/your/python/files
+4. Navigate to the files: cd path/to/your/python/files
 
-
+5. Run the python programs: (Be sure python is installed) pyhton3 Problem1.py python3 Problem2.py Depending on your system, the command may be 'python' or 'python3'
